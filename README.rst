@@ -1,3 +1,7 @@
+.. image:: http://unmaintained.tech/badge.svg
+    :target: http://unmaintained.tech
+    :alt: No Maintenance Intended
+
 .. image:: https://img.shields.io/pypi/v/trading_ig.svg
     :target: https://pypi.python.org/pypi/trading_ig/
     :alt: Latest Version
@@ -88,7 +92,7 @@ Get latest version using Git
 
     $ git clone https://github.com/ig-python/ig-markets-api-python-library
     $ cd ig-markets-api-python-library
-    $ python setup.py install https://github.com/ig-python/ig-markets-api-python-library
+    $ python setup.py install
 
 or
 
